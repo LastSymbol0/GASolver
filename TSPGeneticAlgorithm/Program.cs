@@ -19,7 +19,7 @@ namespace TSPGeneticAlgorithm
 
         static void Main(string[] args)
         {
-            Points = MatrixGenerator.GeneratePointsMatrix(256, 256, 0);
+            //Points = MatrixGenerator.GeneratePointsMatrix(256, 256, 0);
 
             Solver solver = new Solver();
             FitnessFunction fitnessFunction = new FitnessFunction();
