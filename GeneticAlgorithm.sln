@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GASolver", "GASolver\GASolver.csproj", "{ADCAB498-3C2D-44D0-8045-E4B4940609D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPGeneticAlgorithm", "TSPGeneticAlgorithm\TSPGeneticAlgorithm.csproj", "{671BA98F-A342-4883-BF8E-650F95D83C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCAB498-3C2D-44D0-8045-E4B4940609D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCAB498-3C2D-44D0-8045-E4B4940609D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCAB498-3C2D-44D0-8045-E4B4940609D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCAB498-3C2D-44D0-8045-E4B4940609D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671BA98F-A342-4883-BF8E-650F95D83C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671BA98F-A342-4883-BF8E-650F95D83C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671BA98F-A342-4883-BF8E-650F95D83C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671BA98F-A342-4883-BF8E-650F95D83C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBFFCC40-4173-45A2-81B8-ECF05E988195}
+	EndGlobalSection
+EndGlobal
